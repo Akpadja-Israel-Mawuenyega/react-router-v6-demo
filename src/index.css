@@ -293,3 +293,7 @@ ul {
   width: 200px;
   height: 150px;
 }
+
+.error-page {
+  text-align: center;
+}
