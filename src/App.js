@@ -11,6 +11,8 @@ import Dashboard from "./pages/Dashboard";
 import ProtectedRoute from "./pages/ProtectedRoute";
 import SharedProductLayout from "./pages/SharedProductLayout";
 
+// React Router Version 6 was used in this little project.
+ 
 function App() {
   const [user, setUser] = useState(null);
 
